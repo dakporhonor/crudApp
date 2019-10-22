@@ -1,19 +1,14 @@
 {
   "posts": [
     {
-      "title": "Post One",
-      "body": "JavaScript is fun. But you gotta be persistent ",
+      "title": "Indecision App",
+      "body": " yea!",
       "id": 1
     },
     {
-      "title": "Python",
-      "body": "Python is my next language to master",
-      "id": 2
-    },
-    {
       "title": "Indecision",
-      "body": " This is one of the problems I personally deal with Growing up",
-      "id": 4
+      "body": " yea! That's how I feel",
+      "id": 3
     }
   ]
 }
